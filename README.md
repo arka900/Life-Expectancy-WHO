@@ -3,8 +3,6 @@ Statistical Analysis on factors influencing Life Expectancy and comparing variou
 ## Team Members:
 *	Arka Misra
 *	Diwaker Rathore
-## Brief Introduction
-## Technique:
 ## [Dataset](https://www.kaggle.com/kumarajarshi/life-expectancy-who):
 The dataset has been collected from Kaggle.
 ## [Data Description:](https://github.com/DiwakerRathore/Life-Expectancy-WHO/raw/main/Data%20Description.xlsx)
@@ -19,3 +17,4 @@ In this problem we're aiming to answer the following key questions:
 * Does Life Expectancy have positive or negative relationship with drinking alcohol?
 * Do densely populated countries tend to have lower life expectancy?
 * What is the impact of Immunization coverage on life Expectancy?
+## Techniques/ Roadmap:
