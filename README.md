@@ -22,8 +22,8 @@ In this problem we're aiming to answer the following key questions:
 Various Data Exploration techniques and trying some unsupervised learning algorithms like K-Means Clustering and Hierarchical Clustering for cluster analysis and to go from Data to Insights.
 ### 2.	Data Preprocessing (Week 2)
 we will be using linear model as base model to finalize the data preprocessing steps. then multiple outliers removal techniques, encoding techniues, scaling/normalization techniques, feature engineering and different type of imputation combination etc.
-### 3.	Regression Techniques. (Week 3-5)
-Comparing various Regression Models and perform Model Stacking (Stacking is an ensemble learning technique to combine multiple regression models via a meta-regressor.) and Model Blending (Model blending is the manual step, where we manually adjust the weight for each model in order to ensemble the predictions to improve the score.)
+### 3.	Regression Techniques and Conclusion. (Week 3-5)
+Building various Regression Models and perform Model Stacking (Stacking is an ensemble learning technique to combine multiple regression models via a meta-regressor.) and Model Blending (Model blending is the manual step, where we manually adjust the weight for each model in order to ensemble the predictions to improve the score.), comparing the results and answering all the questions.
 
 
 
