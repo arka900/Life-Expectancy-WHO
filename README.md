@@ -4,7 +4,6 @@ Statistical Analysis on factors influencing Life Expectancy and comparing variou
 *	Arka Misra
 *	Diwaker Rathore
 ## Objective:
-## Tool: Python
 ## Technique:
 ## Dataset:
 [The dataset has been collected from Kaggle.](https://www.kaggle.com/kumarajarshi/life-expectancy-who)
