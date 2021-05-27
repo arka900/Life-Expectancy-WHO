@@ -18,3 +18,5 @@ In this problem we're aiming to answer the following key questions:
 * Do densely populated countries tend to have lower life expectancy?
 * What is the impact of Immunization coverage on life Expectancy?
 ## Techniques/ Roadmap:
+EDA and Comparing various regression models.
+
