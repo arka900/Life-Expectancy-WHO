@@ -1,6 +1,6 @@
 ![WHO](https://github.com/DiwakerRathore/Life-Expectancy-WHO/blob/main/logo-who.jpg?raw=true "Title")
 # Life Expectancy WHO
-Statistical Analysis on factors influencing Life Expectancy and comparing various Regression techniques.
+Statistical Analysis on factors influencing Life Expectancy and comparing various Regression models.
 ## Team Members:
 *	Arka Misra
 *	Diwaker Rathore
@@ -20,10 +20,10 @@ In this problem we're aiming to answer the following key questions:
 * What is the impact of Immunization coverage on life Expectancy?
 ## Techniques/ Roadmap:
 ### 1.	Data Exploration and Cluster Analysis (Week 1)
-We'll be performing various Data Exploration techniques and try some unsupervised learning algorithms like K-Means Clustering and Hierarchical Clustering to go from Data to Insights.
+We will perform various Data Exploration techniques and apply some of the unsupervised learning algorithms like K-Means Clustering and Hierarchical Clustering to obtain insights about the dataset.
 ### 2.	Data Preprocessing (Week 2)
-we will be using linear model as base model to finalize the data preprocessing steps. (multiple outliers removal techniques, encoding techniues, scaling/normalization techniques, feature engineering and different type of imputation combination etc.)
+we will be using Linear Model as the base model to finalize the data preprocessing steps. (multiple outliers removal techniques, encoding techniques, scaling/normalization techniques, feature engineering and different type of imputation combination etc.)
 ### 3.	Regression Techniques and Conclusion. (Week 3-5)
-Building various Regression Models and perform Model Stacking (Stacking is an ensemble learning technique to combine multiple regression models via a meta-regressor.) and Model Blending (Model blending is the manual step, where we manually adjust the weight for each model in order to ensemble the predictions to improve the score.), comparing and selecting the best model and answering all the questions.
+Building various Regression Models and perform Model Stacking (Stacking is an ensemble learning technique to combine multiple regression models via a meta-regressor) and Model Blending (Model blending is the manual step, where we manually adjust the weight for each model in order to ensemble the predictions to improve the score), comparing and selecting the best model and answering all the questions.
 
 
