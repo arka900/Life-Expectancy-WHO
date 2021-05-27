@@ -1,5 +1,5 @@
 # Life Expectancy WHO
-Statistical Analysis on factors influencing Life Expectancy and comparing various Regression techniques.
+## Statistical Analysis on factors influencing Life Expectancy and comparing various Regression techniques.
 ## Team Members:
 *	Arka Misra
 *	Diwaker Rathore
