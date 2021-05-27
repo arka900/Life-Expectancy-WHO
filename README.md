@@ -1,9 +1,9 @@
 ![WHO](https://github.com/DiwakerRathore/Life-Expectancy-WHO/blob/main/logo-who.jpg?raw=true "Title")
 # Life Expectancy WHO
-Statistical Analysis on factors influencing Life Expectancy and comparing various Regression models.
+Statistical Analysis on Factors Influencing Life Expectancy and Comparing Various Regression Models.
 ## Team Members:
-*	Arka Misra
-*	Diwaker Rathore
+*	[Arka Misra](https://www.linkedin.com/in/arka-misra/)
+*	[Diwaker Rathore](https://www.linkedin.com/in/diwaker-rathore/)
 ## [Dataset](https://www.kaggle.com/kumarajarshi/life-expectancy-who):
 The dataset has been collected from Kaggle.
 ## [Data Description:](https://github.com/DiwakerRathore/Life-Expectancy-WHO/raw/main/Data%20Description.xlsx)
@@ -22,7 +22,7 @@ In this problem we're aiming to answer the following key questions:
 ### 1.	Data Exploration and Cluster Analysis (Week 1)
 We will perform various Data Exploration techniques and apply some of the unsupervised learning algorithms like K-Means Clustering and Hierarchical Clustering to obtain insights about the dataset.
 ### 2.	Data Preprocessing (Week 2)
-we will be using Linear Model as the base model to finalize the data preprocessing steps. (multiple outliers removal techniques, encoding techniques, scaling/normalization techniques, feature engineering and different type of imputation combination etc.)
+We will be using Linear Model as the base model to finalize the data preprocessing steps. (multiple outliers removal techniques, encoding techniques, scaling/normalization techniques, feature engineering and different type of imputation combination etc.)
 ### 3.	Regression Techniques and Conclusion. (Week 3-5)
 Building various Regression Models and perform Model Stacking (Stacking is an ensemble learning technique to combine multiple regression models via a meta-regressor) and Model Blending (Model blending is the manual step, where we manually adjust the weight for each model in order to ensemble the predictions to improve the score), comparing and selecting the best model and answering all the questions.
 
