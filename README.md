@@ -1,4 +1,4 @@
-https://github.com/DiwakerRathore/Life-Expectancy-WHO/blob/main/logo-who.jpg
+[](https://github.com/DiwakerRathore/Life-Expectancy-WHO/blob/main/logo-who.jpg)
 # Life Expectancy WHO
 Statistical Analysis on factors influencing Life Expectancy and comparing various Regression techniques.
 ## Team Members:
