@@ -8,7 +8,7 @@ Statistical Analysis on factors influencing Life Expectancy and comparing variou
 ## [Dataset](https://www.kaggle.com/kumarajarshi/life-expectancy-who):
 The dataset has been collected from Kaggle.
 ## [Data Description:](https://github.com/DiwakerRathore/Life-Expectancy-WHO/raw/main/Data%20Description.xlsx)
-This dataset tracks the many features of a nation for a period of 15 years, from 2000 – 2015 to determine which factors are ultimately/most responsible for the life expectancy of the citizens. This will help many developing nations to take steps which will allow them to tackle the important factors that are responsible for low life expectancy. An efficient way of improving the life expectancy is what the project is trying to determine.
+This dataset tracks the many features of a nation for a period of 15 years, from 2000 – 2015 to determine which factors are most responsible for the life expectancy of the citizens. This will help many developing nations to take steps which will allow them to tackle the important factors that are responsible for low life expectancy. An efficient way of improving the life expectancy is what the project is trying to determine.
 ## Inspiration:
 In this problem we're aiming to answer the following key questions:
 * Does various predicting factors which has been chosen initially really affect the Life expectancy? What are the predicting variables actually affecting the life expectancy?
