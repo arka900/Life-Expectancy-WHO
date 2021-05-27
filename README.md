@@ -3,7 +3,7 @@ Statistical Analysis on factors influencing Life Expectancy and comparing variou
 ## Team Members:
 *	Arka Misra
 *	Diwaker Rathore
-## Objective:
+## Brief Introduction
 ## Technique:
 ## [Dataset](https://www.kaggle.com/kumarajarshi/life-expectancy-who):
 The dataset has been collected from Kaggle.
