@@ -18,8 +18,8 @@ In this problem we're aiming to answer the following key questions:
 * Do densely populated countries tend to have lower life expectancy?
 * What is the impact of Immunization coverage on life Expectancy?
 ## Techniques/ Roadmap:
-### 1.	Data Exploration and Cluster Analysis (Week 1)
-We will perform various Data Exploration techniques and apply some of the unsupervised learning algorithms like K-Means Clustering and Hierarchical Clustering to obtain insights about the dataset.
+### 1.	Data Exploration (Week 1)
+We will perform various Data Exploration techniques and apply some of the unsupervised learning algorithms to obtain insights about the dataset.
 ### 2.	Data Preprocessing (Week 2)
 We will be using Linear Model as the base model to finalize the data preprocessing steps. (multiple outliers removal techniques, encoding techniques, scaling/normalization techniques, feature engineering and different type of imputation combination etc.)
 ### 3.	Regression Techniques and Conclusion. (Week 3-5)
